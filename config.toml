@@ -19,6 +19,6 @@ paginate = 3
   twitter_handle = ""
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
-  showPostsOnHomepage = false
+  showPostsOnHomepage = true
   addFrame = true
   addDot = false
